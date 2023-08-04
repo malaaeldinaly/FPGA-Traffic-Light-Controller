@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mohsin/PLD/Lab9_3/Lab9_3.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mohsin/PLD/Lab9_3/Lab9_3.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mohsin/PLD/Lab9_3/Lab9_3.srcs/sources_1/new/clk_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mohsin/PLD/Lab9_3/Lab9_3.srcs/sources_1/new/Lab9_3verilog.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lab9_3verilog
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mohsin/PLD/Lab9_3/Lab9_3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

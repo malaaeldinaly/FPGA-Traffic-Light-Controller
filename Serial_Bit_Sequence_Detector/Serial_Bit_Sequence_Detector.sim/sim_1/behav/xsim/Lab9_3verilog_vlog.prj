@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../Lab9_3.gen/sources_1/ip/clk_wiz_0" \
+"../../../../Lab9_3.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" \
+"../../../../Lab9_3.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" \
+"../../../../Lab9_3.srcs/sources_1/new/clk_divider.v" \
+"../../../../Lab9_3.srcs/sources_1/new/Lab9_3verilog.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
